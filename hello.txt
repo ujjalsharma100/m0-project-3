@@ -3,3 +3,7 @@ hey
 Welcome to m0-project-3.
 This file was updated with a few extra lines.
 Hope your day goes well.
+
+Thanks for reading.
+app2.py now includes a small farewell helper alongside greet.
+Ping the team if anything looks off.
